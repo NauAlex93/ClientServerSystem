@@ -1,0 +1,11 @@
+ru\specialist\entity\User.class
+ru\specialist\dao\impl\EmailSenderBean.class
+ru\specialist\msg\MessageBean.class
+ru\specialist\dao\impl\UserDAOBean.class
+ru\specialist\entity\Address.class
+ru\specialist\entity\Address_.class
+ru\specialist\dao\UserDAORemote.class
+ru\specialist\IllegalEmailException.class
+ru\specialist\dao\UserDAOLocal.class
+ru\specialist\entity\User_.class
+ru\specialist\ws\HelloService.class
